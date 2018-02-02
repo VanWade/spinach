@@ -1,0 +1,17 @@
+django==1.11
+django-bootstrap3
+ansible
+paramiko
+celery-with-redis
+django-celery
+django-kombu
+flower
+djangorestframework
+django-guardian
+mysqlclient
+xlwt
+uwsgi
+cryptography
+pyecharts
+tornado
+xadmin
